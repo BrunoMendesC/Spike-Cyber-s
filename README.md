@@ -8,7 +8,7 @@
 
 O desafio proposto pela organização do Torneio Brasil de Robótica foi a respeito da Fitossanidade, que é o estudo de diversas plantas, pragas e doenças. E suas técnicas consistem em estudar, controlar e minimizar os danos causados. Levando isso em conta, as missões falam a respeito de plantar itens certos nos lugares certos, e remover itens indevidos e descartá-los.
 
-> _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos envolvidos_
+> _Projeto baseado no desenvolvimento pessoal e em equipe, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos envolvidos_
 :pushpin: Status do Projeto: **Concluído** :heavy_check_mark:
 
 <span id="programações">
