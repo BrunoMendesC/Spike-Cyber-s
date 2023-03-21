@@ -53,14 +53,14 @@ Consiste em entregar direção de movimento para os motores através do sensor g
 
 Na questão estrutural, também foi projetado diversos protótipos até se alcançar o mais adequado. Tudo é levado em conta, distância dos sensores em relação ao chão, tamanho dos pneus, posição dos cabos. Com tudo isso chegou-se ao modelo ágil, compacto e de fácil reparo.
 
-<p align="center"> <img src="./" /></p>
+<p align="center"> <img src="./ROBO_3D_1_BRICK.png" /></p>
 
 > _Primeiro modelo de robô desenvolvido, apenas um sensor de cor, pneus finos e falta de estética._<br>
 :pushpin: Status do Projeto: **Concluído** :heavy_check_mark:
 
 Depois de muitas análises o robô definitivo ganhou vida, agora com mais sensores para maior precisão, sistema de sombra para sensores de luz, pneus mais largos para maior força de tração, e uma estética trabalhada.
 
-<p align="center"> <img src="./Capturar4.PNG" /></p>
+<p align="center"> <img src="./ROBO_RODAO.png" /></p>
 
 
 
