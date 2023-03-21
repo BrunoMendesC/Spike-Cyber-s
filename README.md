@@ -18,7 +18,7 @@ O desafio proposto pela organização do Torneio Brasil de Robótica foi a respe
 A partir das missões propostas, foi possível gerar uma análise, traçar as melhores rotas e a partir daí começar a programação. Varias foram geradas até que se chegasse na definitiva. Foram usadas algumas técnicas para deixar o robô mais inteligente.
 
 <span id="programação">
-:pushpin: Seguidor de Linha PID 
+:dart: Seguidor de Linha PID 
 
 . Proporcional: O quão ruim esta a situação agora? <br>
 . Integral: As minhas correções anteriores ajudaram a melhorar as coisas?<br>
@@ -30,7 +30,7 @@ A partir das missões propostas, foi possível gerar uma análise, traçar as me
 > _Programação baseada na leitura do reflexo das cores no tapete, ao serem submetidas a certa intensidade de luz do próprio sensor._<br>
 :pushpin: Status do Projeto: **Concluído** :heavy_check_mark:
 
-:pushpin: Acelerador
+:dart: Acelerador
 
 Essa programação consiste em movimentar o robô em sua velocidade máxima mas sem perder precisão, então para isso ele acelera de forma exponencial e também desacelera do mesmo modo, sempre de forma gradativa, evitando trancos indesejáveis. Para isso foi utilizado variáveis que com o tempo incrementam de valor, e esse valor é entregue como potência para os motores motores.
 
@@ -38,6 +38,16 @@ Essa programação consiste em movimentar o robô em sua velocidade máxima mas 
 
 > _Programação baseada no incremento e decremento de valores de variáveis através do tempo._<br>
 :pushpin: Status do Projeto: **Concluído** :heavy_check_mark:
+
+:dart: Andar Com o Giroscópio
+
+Consiste em entregar direção de movimento para os motores através do sensor giroscópio. Uma posição angular é definida no início da ação, e esse ângulo é usado como base para direcionar o robô, sempre comparando a referência, com o que o sensor está captando.
+
+<p align="center"> <img src="./Capturar2.PNG" /></p>
+
+> _Programação baseada no aferimento de valocidade angular através do giroscópio._<br>
+:pushpin: Status do Projeto: **Concluído** :heavy_check_mark:
+
 
 
 
