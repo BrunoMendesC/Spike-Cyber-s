@@ -15,5 +15,19 @@ O desafio proposto pela organização do Torneio Brasil de Robótica foi a respe
 
 ## :desktop_computer: Programações 
 
-A partir das missões propostas, foi possível gerar uma análise, traçar as melhores rotas e a partir daí começar a programação. Varios foram geradas até que se chegasse na definitiva
+A partir das missões propostas, foi possível gerar uma análise, traçar as melhores rotas e a partir daí começar a programação. Varias foram geradas até que se chegasse na definitiva. Foram usadas algumas técnicas para deixar o robô mais inteligente.
+
+<span id="programação">
+:pushpin: Seguidor de Linha PID 
+
+. Proporcional: O quão ruim esta a situação agora? <br>
+. Integral: As minhas correções anteriores ajudaram a melhorar as coisas?<br>
+. Derivada: Como a situação esta mudando? <br>
+. Controle PID: Combina os valores do erro, integral e derivada para decidir a direção do robô
+<p align="center"> <img src="./Capturar.png" /></p>
+
+
+
+
+
 
