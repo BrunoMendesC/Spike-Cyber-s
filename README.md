@@ -11,13 +11,12 @@ O desafio proposto pela organização do Torneio Brasil de Robótica foi a respe
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos envolvidos_
 :pushpin: Status do Projeto: **Concluído** :heavy_check_mark:
 
-<span id="sobre">
+<span id="programações">
 
 ## :desktop_computer: Programações 
 
 A partir das missões propostas, foi possível gerar uma análise, traçar as melhores rotas e a partir daí começar a programação. Varias foram geradas até que se chegasse na definitiva. Foram usadas algumas técnicas para deixar o robô mais inteligente. O robô conta com diversos momentos de alinhamento no tapete, para garantir posição, leitura de cores do tapete e dos itens de missões. Tudo isso para que o robô se tornasse totalmente autônomo, uma vez solto no tapete, ele termina todas as missões por conta própria.
 
-<span id="programação">
 :dart: Seguidor de Linha PID 
 
 . Proporcional: O quão ruim esta a situação agora? <br>
@@ -47,6 +46,28 @@ Consiste em entregar direção de movimento para os motores através do sensor g
 
 > _Programação baseada no aferimento de velocidade angular através do giroscópio._<br>
 :pushpin: Status do Projeto: **Concluído** :heavy_check_mark:
+
+<span id="estrutura">
+
+## :robot: Estrutura 
+
+Na questão estrutural, também foi projetado diversos protótipos até se alcançar o mais adequado. Tudo é levado em conta, distância dos sensores em relação ao chão, tamanho dos pneus, posição dos cabos. Com tudo isso chegou-se ao modelo ágil, compacto e de fácil reparo.
+
+<p align="center"> <img src="./" /></p>
+
+> _Primeiro modelo de robô desenvolvido, apenas um sensor de cor, pneus finos e falta de estética._<br>
+:pushpin: Status do Projeto: **Concluído** :heavy_check_mark:
+
+Depois de muitas análises o robô definitivo ganhou vida, agora com mais sensores para maior precisão, sistema de sombra para sensores de luz, pneus mais largos para maior força de tração, e uma estética trabalhada.
+
+<p align="center"> <img src="./Capturar4.PNG" /></p>
+
+
+
+
+
+
+
 
 
 
