@@ -62,6 +62,9 @@ Depois de muitas análises o robô definitivo ganhou vida, agora com mais sensor
 
 <p align="center"> <img src="./ROBO_RODAO.png" /></p>
 
+> _Robô definitivo que participou do Torneio._<br>
+:pushpin: Status do Projeto: **Concluído** :heavy_check_mark:
+
 
 
 
