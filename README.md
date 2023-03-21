@@ -15,7 +15,7 @@ O desafio proposto pela organização do Torneio Brasil de Robótica foi a respe
 
 ## :desktop_computer: Programações 
 
-A partir das missões propostas, foi possível gerar uma análise, traçar as melhores rotas e a partir daí começar a programação. Varias foram geradas até que se chegasse na definitiva. Foram usadas algumas técnicas para deixar o robô mais inteligente.
+A partir das missões propostas, foi possível gerar uma análise, traçar as melhores rotas e a partir daí começar a programação. Varias foram geradas até que se chegasse na definitiva. Foram usadas algumas técnicas para deixar o robô mais inteligente. O robô conta com diversos momentos de alinhamento no tapete, para garantir posição, leitura de cores do tapete e dos itens de missões. Tudo isso para que o robô se tornasse totalmente autônomo, uma vez solto no tapete, ele termina todas as missões por conta própria.
 
 <span id="programação">
 :dart: Seguidor de Linha PID 
@@ -45,7 +45,7 @@ Consiste em entregar direção de movimento para os motores através do sensor g
 
 <p align="center"> <img src="./Capturar2.PNG" /></p>
 
-> _Programação baseada no aferimento de valocidade angular através do giroscópio._<br>
+> _Programação baseada no aferimento de velocidade angular através do giroscópio._<br>
 :pushpin: Status do Projeto: **Concluído** :heavy_check_mark:
 
 
